@@ -14,4 +14,7 @@ Mi cuarto repositorio. Aprendiendo a clonar repositorios
  
 5 Elegir si se creara el archivo Readme
 
-6 Crear repositorio 
+6 Crear repositorio
+
+7 Listo!!
+
